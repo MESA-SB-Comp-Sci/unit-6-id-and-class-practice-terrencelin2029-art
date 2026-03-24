@@ -11,9 +11,11 @@
 
 /* Task 1: Write a CLASS rule called "pink-bg"
    It should change the background color to pink */
+pink-bg {background-color: deeppink;
 
+}
 
-/* Task 2: Write a CLASS rule called "blue-text"
+/* Task 2: Write a CLASS rule called "blue-text"96
    It should change the text color to blue */
 
 
